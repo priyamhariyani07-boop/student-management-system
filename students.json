@@ -1,0 +1,26 @@
+{
+    "25bce257": {
+        "student_id": "25bce257",
+        "name": "Priyam",
+        "age": 19,
+        "email": "25bce257@nirmauni.ac.in",
+        "Courses": [],
+        "grades": {}
+    },
+    "25bce242": {
+        "student_id": "25bce242",
+        "name": "Shiv",
+        "age": 20,
+        "email": "25bce242@nirmauni.ac.in",
+        "Courses": [],
+        "grades": {}
+    },
+    "25bce266": {
+        "student_id": "25bce266",
+        "name": "Rashi",
+        "age": 19,
+        "email": "25bce266@nirmauni.ac.in",
+        "Courses": [],
+        "grades": {}
+    }
+}
